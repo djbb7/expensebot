@@ -1,0 +1,16 @@
+{
+  "name": "expense-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^27.0.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
